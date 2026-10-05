@@ -255,10 +255,7 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 1_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 1_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided1-1.png)
+![Screenshot Output Unguided 1_1](https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_LAPRAKSMT3/blob/main/Laprak/modul2/Modul%202/output/soal1.png)
 
 
 Program ini digunakan untuk mengolah dua matriks berukuran 3x3, yaitu `mat1` dan `mat2`. Kedua matriks tersebut kemudian diproses menggunakan beberapa operasi dasar, seperti penjumlahan, pengurangan, dan perkalian. Setiap operasi dilakukan dengan bantuan fungsi yang telah dibuat, kemudian hasil dari masing-masing perhitungan ditampilkan pada layar.
@@ -303,10 +300,7 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 2_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 2_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided2-1.png)
+![Screenshot Output Unguided 2_1](https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_LAPRAKSMT3/blob/main/Laprak/modul2/Modul%202/output/soal2.png)
 
 
 Program ini digunakan untuk menunjukkan proses pertukaran nilai pada tiga variabel, yaitu `x`, `y`, dan `z`. Proses swapping dilakukan dengan dua cara, yaitu menggunakan **reference** dan **pointer**, sehingga dapat diketahui bagaimana kedua metode tersebut dapat mengubah nilai variabel secara langsung.
@@ -395,10 +389,11 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 3_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 3_1](https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_LAPRAKSMT3/blob/main/Laprak/modul2/Modul%202/output/soal3a.png)
 
-contoh :
-![Screenshot Output Unguided 3_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided3-1.png)
+##### Output 2
+
+![Screenshot Output Unguided 3_2](https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_LAPRAKSMT3/blob/main/Laprak/modul2/Modul%202/output/soal3b.png)
 
 
 Program ini berfungsi sebagai aplikasi menu interaktif berbasis array untuk mengolah sekumpulan data angka, di mana pengguna dapat memilih opsi untuk menampilkan isi array, mencari nilai maksimum, mencari nilai minimum, atau menghitung nilai rata-rata melalui fungsi-fungsi terpisah.
