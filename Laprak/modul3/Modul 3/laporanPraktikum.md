@@ -225,10 +225,10 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 1_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_LAPRAKSMT3/blob/main/Laprak/modul3/Modul%203/output/soal1a.png)
 
 contoh :
-![Screenshot Output Unguided 1_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided1-1.png)
+![https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_LAPRAKSMT3/blob/main/Laprak/modul3/Modul%203/output/soal1b.png)
 
 
 Program ini menggunakan `struct Mahasiswa` untuk menyimpan informasi mahasiswa dan array yang dapat menampung maksimal 10 data mahasiswa. Fungsi `inputMahasiswa()` digunakan untuk memasukkan data mahasiswa, sedangkan `hitungNilaiAkhir()` berfungsi menghitung nilai akhir sesuai rumus yang ditentukan pada soal. Setelah itu, fungsi `tampilMahasiswa()` digunakan untuk menampilkan data mahasiswa beserta nilai akhirnya.
@@ -251,10 +251,8 @@ Program ini menggunakan `struct Mahasiswa` untuk menyimpan informasi mahasiswa d
 
 ##### Output 1
 
-![Screenshot Output Unguided 2_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
 
-contoh :
-![Screenshot Output Unguided 2_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided2-1.png)
+![https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_LAPRAKSMT3/blob/main/Laprak/modul3/Modul%203/output/soal2.png)
 
 
 Program ini menggunakan `struct pelajaran` untuk menyimpan nama dan kode mata pelajaran. Fungsi `create_pelajaran()` digunakan untuk mengisi data mata pelajaran, sedangkan prosedur `tampil_pelajaran()` berfungsi menampilkan data yang telah dimasukkan. Program ini juga memisahkan file header dan implementasi agar susunan kode lebih rapi serta sesuai dengan konsep ADT yang dipelajari pada modul.
@@ -275,10 +273,8 @@ Program ini menggunakan `struct pelajaran` untuk menyimpan nama dan kode mata pe
 
 ##### Output 1
 
-![Screenshot Output Unguided 3_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_LAPRAKSMT3/blob/main/Laprak/modul3/Modul%203/output/soal3.png)
 
-contoh :
-![Screenshot Output Unguided 3_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided3-1.png)
 
 
 Program ini menggunakan dua array berukuran 3×3 dan dua pointer bertipe integer. Fungsi `tampilArray()` digunakan untuk menampilkan isi array, sedangkan `tukarArray()` berfungsi menukar elemen pada posisi yang sama, yaitu baris kedua dan kolom kedua dengan indeks `[1][1]`. Sementara itu, fungsi `tukarPointer()` digunakan untuk menukar nilai yang ditunjuk oleh kedua pointer dengan bantuan variabel sementara. Perlu diketahui bahwa indeks array dalam C++ dimulai dari 0, sehingga indeks `[1][1]` menunjukkan baris kedua dan kolom kedua. Pada contoh program, pointer `p1` dan `p2` menunjuk ke variabel `val1` dan `val2` yang nilainya ditukar oleh fungsi tersebut.
