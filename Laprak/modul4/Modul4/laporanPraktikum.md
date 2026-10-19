@@ -409,11 +409,7 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 1_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 1_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided1-1.png)
-
+![https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_LAPRAKSMT3/blob/main/Laprak/modul4/Modul4/output/soal1.png)
 
 File header ini digunakan sebagai dasar deklarasi ADT Singly Linked List dengan tipe data integer sesuai ketentuan praktikum. Di dalam file ini terdapat deklarasi infotype bertipe int, struktur node ElmList, tipe pointer address, serta struktur List yang memiliki atribut First sebagai penunjuk node pertama. Selain itu, file header juga memuat prototipe fungsi dan prosedur yang diperlukan, seperti createList, alokasi, dealokasi, printInfo, dan insertFirst. Deklarasi tersebut menjadi acuan bagi file implementasi dalam menjalankan operasi pada Singly Linked List.
 
