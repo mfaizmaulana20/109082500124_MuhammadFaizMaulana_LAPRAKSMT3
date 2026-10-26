@@ -680,7 +680,7 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 1_1](https://github.com/almabonitaa/109082500015_AlmaBonitaMW_StrukturData/blob/main/modul5/output/output-soal1.png)
+![Screenshot Output Unguided 1_1](https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_LAPRAKSMT3/blob/main/Laprak/modul5/output/soal1.png)
 
 Program ini menggunakan struktur data Singly Linked List untuk menyimpan beberapa nilai, yaitu 9, 12, 8, 0, dan 2. Fungsi insertFirst() digunakan untuk menambahkan elemen di bagian awal list, sedangkan printInfo() menampilkan seluruh elemen. Fungsi findElm() digunakan untuk mencari nilai 8 dengan memeriksa elemen satu per satu. Terakhir, fungsi totalInfo() menjumlahkan seluruh nilai elemen sehingga diperoleh hasil 31.
 
