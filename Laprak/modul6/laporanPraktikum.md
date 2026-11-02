@@ -869,11 +869,11 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 1_1](https://github.com/almabonitaa/109082500015_AlmaBonitaMW_StrukturData/blob/main/modul6/output/Output-soal1.png)
+![Screenshot Output Unguided 1_1](https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_LAPRAKSMT3/blob/main/Laprak/modul6/output/output1.png)
 
 ##### Output 2
 
-![Screenshot Output Unguided 2_1](https://github.com/almabonitaa/109082500015_AlmaBonitaMW_StrukturData/blob/main/modul6/output/Output(2)-soal1.png)
+![Screenshot Output Unguided 2_1](https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_LAPRAKSMT3/blob/main/Laprak/modul6/output/output2.png)
 
 Berdasarkan program yang telah dibuat, Doubly Linked List digunakan untuk mengelola data kendaraan yang terdiri dari nomor polisi, warna, dan tahun pembuatan. Program ini menerapkan operasi insert untuk menambahkan data kendaraan, searching untuk mencari kendaraan berdasarkan nomor polisi, serta delete untuk menghapus data kendaraan yang dipilih. Selain itu, program menggunakan pointer next dan prev untuk menghubungkan setiap elemen sehingga data dapat dikelola dengan lebih teratur.
 
