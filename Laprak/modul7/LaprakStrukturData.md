@@ -671,15 +671,15 @@ Program ini mengimplementasikan ADT Stack berbasis array berkapasitas 20 elemen 
 
 ##### Output 1
 
-![Screenshot Output Unguided 1](https://github.com/faarrreeeelll/Farel-Juliyandra-Restu-Hermawan_109082530038_Laprak-Semester-3/blob/main/MODUL7/output/output-soal1.png)
+![Screenshot Output Unguided 1](https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_LAPRAKSMT3/blob/main/Laprak/modul7/output/output1.png)
 
 ##### Output 2
 
-![Screenshot Output Unguided 2](https://github.com/faarrreeeelll/Farel-Juliyandra-Restu-Hermawan_109082530038_Laprak-Semester-3/blob/main/MODUL7/output/output-soal2.png)
+![Screenshot Output Unguided 2](https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_LAPRAKSMT3/blob/main/Laprak/modul7/output/output2.png)
 
 ##### Output 3
 
-![Screenshot Output Unguided 3](https://github.com/faarrreeeelll/Farel-Juliyandra-Restu-Hermawan_109082530038_Laprak-Semester-3/blob/main/MODUL7/output/output-soal3.png)
+![Screenshot Output Unguided 3](https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_LAPRAKSMT3/blob/main/Laprak/modul7/output/output3.png)
 
 ## Kesimpulan
 
