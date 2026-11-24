@@ -701,11 +701,11 @@ Program ini mengimplementasikan ADT Queue berbasis array berkapasitas 5 elemen s
 
 ##### Output 1
 
-![Screenshot Output Unguided 1](https://github.com/faarrreeeelll/Farel-Juliyandra-Restu-Hermawan_109082530038_Laprak-Semester-3/blob/main/MODUL8/output/output1.png)
+![Screenshot Output Unguided 1](https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_LAPRAKSMT3/blob/main/Laprak/modul8/output/output1.png)
 
 ##### Output 2
 
-![Screenshot Output Unguided 2](https://github.com/faarrreeeelll/Farel-Juliyandra-Restu-Hermawan_109082530038_Laprak-Semester-3/blob/main/MODUL8/output/output2.png)
+![Screenshot Output Unguided 2](https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_LAPRAKSMT3/blob/main/Laprak/modul8/output/output2.png)
 
 ## Kesimpulan
 
